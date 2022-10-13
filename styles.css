@@ -1,0 +1,40 @@
+/*Body*/
+body {
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif; /*Orbitron - Google Font*/
+}
+
+/*Background images - Webp format - ID*/
+#hero {
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+/*Logo - ID*/
+#main-logo {
+    width: 100px;
+}
+
+/*Tittle - ID*/
+#title {
+    text-shadow: 0px 0px 4px black;
+}
+
+/*Button - Utility class*/
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    font-weight: 800;
+}
+
+/*Underline - Utility class*/
+.underline {
+    border-bottom: 4px solid white;
+}
+   
