@@ -10,12 +10,12 @@ body {
 #hero {
     background-image: url("images/galaxy.webp");
     background-size: cover;
-    padding: 10px 0 40px 0;
+    padding: 50px 10px 70px 10px;
 }
 
 /*Logo - ID*/
 #main-logo {
-    width: 100px;
+    width: 150px;
 }
 
 /*Tittle - ID*/
